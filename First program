@@ -1,6 +1,0 @@
-#include<stdio.h>
-int main()
-{
- priftf("hello world");
- return 0
- }
